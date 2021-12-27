@@ -3,6 +3,6 @@ Welcome back to Trial Tower! Did you miss it at all? Climb as high as you possib
 If you want more Mario content, support them on the Switch's eShop.
 
 IMPORTANT NOTE:
-Make sure to extract the TXT Files.zip folder before playing the game. If you haven't, attempting to read most of the help sections or viewing any story cutscenes will cause the game to softlock.
+Make sure to extract the TXT Files.zip folder into the EXACT DIRECTORY of the game (.exe file) before playing. If you haven't, attempting to read most of the help sections or viewing any story cutscenes will cause the game to softlock.
 
 All constructive criticism is welcome, while destructive criticism is not. This game may be used as footage anywhere with credit.
